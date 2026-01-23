@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT AdBlocker",
+  "version": "1.0",
+  "description": "Removes Ads on ChatGPT",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html",
+    "js": [
+      "index.js"
+    ]
+  },
+  "icons": {
+    "128": "icon.png",
+    "16": "icon.png",
+    "48": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://chat.openai.com/*",
+        "*://chatgpt.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
