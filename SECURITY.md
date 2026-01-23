@@ -32,7 +32,7 @@ The extension requests minimal permissions:
 We take security seriously. If you discover a security vulnerability:
 
 ### Please DO:
-1. **Email us privately** at security@yourdomain.com (or create a private security advisory on GitHub)
+1. **Email us privately** at gh-security@rojansapkota.com.np (or create a private security advisory on GitHub)
 2. **Provide details**:
    - Description of the vulnerability
    - Steps to reproduce
@@ -94,7 +94,7 @@ We regularly:
 ## 📞 Contact
 
 For security-related inquiries:
-- **Email**: security@yourdomain.com
+- **Email**: gh-security@rojansapkota.com.np
 - **GitHub**: [Security Advisories](https://github.com/rojansapkota/chatgpt-adblocker/security/advisories)
 
 ---
