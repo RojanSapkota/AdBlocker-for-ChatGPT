@@ -10,7 +10,7 @@
 
 *Works on Chrome, Edge, Brave, Opera, Vivaldi, and all Chromium-based browsers*
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Contributing](#contributing) • [License](#license)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing) • [License](#-license)
 
 </div>
 
@@ -222,3 +222,10 @@ Having issues? Please:
 [⬆ back to top](#-chatgpt-adblocker)
 
 </div>
+
+### 💰 Support Me
+
+[![Wise](https://img.shields.io/badge/Wise-00B9FF?style=for-the-badge&logo=wise&logoColor=white)](https://rojansapkota.com.np/wise) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/payrojan) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rojansapkota) 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rojansapkota.com.np/pay) 
