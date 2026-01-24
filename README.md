@@ -223,9 +223,13 @@ Having issues? Please:
 
 </div>
 
+
+
+
 ### 💰 Support Me
 
 [![Wise](https://img.shields.io/badge/Wise-00B9FF?style=for-the-badge&logo=wise&logoColor=white)](https://rojansapkota.com.np/wise) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/payrojan) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rojansapkota) 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rojansapkota.com.np/pay) 
+![Views Counter](https://views-counter.vercel.app/badge?pageId=rojansapkota-ChatGPT-AdBlocker&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none)
