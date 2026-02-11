@@ -21,7 +21,8 @@
 ChatGPT AdBlocker is a lightweight browser extension that automatically detects and blocks sponsored content in ChatGPT responses, ensuring a clean and ad-free AI experience. Works on all Chromium-based browsers including Chrome, Edge, Brave, Opera, and Vivaldi.
 
 > **⚠️ Important Note:**  
-> ChatGPT's ad system has **not been officially released yet**. This extension is a **proactive prototype** designed to be ready when/if sponsored content appears in ChatGPT responses. The detection patterns and blocking mechanisms may need adjustments once the actual ad system is launched. Consider this an early-access tool that will evolve based on how ChatGPT implements advertisements.
+> ~~ChatGPT's ad system has **not been officially released yet**. This extension is a **proactive prototype** designed to be ready when/if sponsored content appears in ChatGPT responses. The detection patterns and blocking mechanisms may need adjustments once the actual ad system is launched. Consider this an early-access tool that will evolve based on how ChatGPT implements advertisements.~~
+> As of 9 February ads are live in ChatGPT. However, they are available only for US based users and free and Go users above 18. You can read more info here: https://openai.com/index/testing-ads-in-chatgpt/
 
 ## ✨ Features
 
