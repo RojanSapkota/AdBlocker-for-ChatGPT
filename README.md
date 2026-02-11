@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ ChatGPT AdBlocker
+#  ChatGPT AdBlocker
 
 **Block sponsored content in ChatGPT responses**
 
@@ -24,26 +24,26 @@ ChatGPT AdBlocker is a lightweight browser extension that automatically detects 
 > ~~ChatGPT's ad system has **not been officially released yet**. This extension is a **proactive prototype** designed to be ready when/if sponsored content appears in ChatGPT responses. The detection patterns and blocking mechanisms may need adjustments once the actual ad system is launched. Consider this an early-access tool that will evolve based on how ChatGPT implements advertisements.~~
 > As of 9 February ads are live in ChatGPT. However, they are available only for US based users and free and Go users above 18. You can read more info here: https://openai.com/index/testing-ads-in-chatgpt/
 
-## ✨ Features
+##  Features
 
-- 🛡️ **Smart Detection** - Multiple detection methods for comprehensive ad blocking
-- ⚡ **Real-time Monitoring** - Instantly blocks sponsored content as it appears
-- 🎯 **Precision Targeting** - Only blocks ChatGPT's responses, never your messages
-- 🔄 **Toggle Control** - Easy ON/OFF switch in the popup
-- 💾 **State Persistence** - Remembers your preferences across sessions
-- 🎨 **Modern UI** - Clean, ChatGPT-themed interface
+-  **Smart Detection** - Multiple detection methods for comprehensive ad blocking
+-  **Real-time Monitoring** - Instantly blocks sponsored content as it appears
+-  **Precision Targeting** - Only blocks ChatGPT's responses, never your messages
+-  **Toggle Control** - Easy ON/OFF switch in the popup
+-  **State Persistence** - Remembers your preferences across sessions
+-  **Modern UI** - Clean, ChatGPT-themed interface
 
-## 🚀 Installation
+##  Installation
 
 ### From Source
 
 **Compatible with all Chromium-based browsers:**
-- ✅ Google Chrome
-- ✅ Microsoft Edge  
-- ✅ Brave Browser
-- ✅ Opera
-- ✅ Vivaldi
-- ✅ Any Chromium-based browser with developer mode
+-  Google Chrome
+-  Microsoft Edge  
+-  Brave Browser
+-  Opera
+-  Vivaldi
+-  Any Chromium-based browser with developer mode
 
 1. **Download the extension**
    ```bash
@@ -71,13 +71,13 @@ ChatGPT AdBlocker is a lightweight browser extension that automatically detects 
    - Click "Load unpacked"
    - Select the extension folder
 
-3. **You're done!** 🎉
+3. **You're done!** 
 
 ### From Web Stores
 
 *Coming soon to Chrome Web Store and Edge Add-ons...*
 
-## 📱 Usage
+##  Usage
 
 1. **Click the extension icon** in your browser toolbar
 2. **Toggle protection** ON or OFF as needed
@@ -85,7 +85,7 @@ ChatGPT AdBlocker is a lightweight browser extension that automatically detects 
 
 The extension works automatically - no configuration needed!
 
-## 🔧 How It Works
+##  How It Works
 
 ### Detection Methods
 
@@ -99,25 +99,25 @@ The extension uses multiple strategies to identify sponsored content:
 ### User Message Protection
 
 Your messages are **completely safe**:
-- ✅ Only scans ChatGPT's assistant responses
-- ✅ Triple-layer protection against false positives
-- ✅ Uses `data-message-author-role="assistant"` targeting
+-  Only scans ChatGPT's assistant responses
+-  Triple-layer protection against false positives
+-  Uses `data-message-author-role="assistant"` targeting
 
-## 🎯 Supported Platforms
+##  Supported Platforms
 
 ### Browsers
-- ✅ Google Chrome
-- ✅ Microsoft Edge
-- ✅ Brave Browser
-- ✅ Opera
-- ✅ Vivaldi
-- ✅ Any Chromium-based browser with developer mode
+-  Google Chrome
+-  Microsoft Edge
+-  Brave Browser
+-  Opera
+-  Vivaldi
+-  Any Chromium-based browser with developer mode
 
 ### ChatGPT Platforms
-- ✅ ChatGPT (chatgpt.com)
-- ✅ ChatGPT Legacy (chat.openai.com)
+-  ChatGPT (chatgpt.com)
+-  ChatGPT Legacy (chat.openai.com)
 
-## 🛠️ Development
+## Development
 
 ### Prerequisites
 
@@ -150,7 +150,7 @@ No build process required! The extension runs directly from source.
 4. Look for initialization messages
 5. Test with toggle ON/OFF
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -164,26 +164,25 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 **Prototype Status:**
-This extension is a **proactive prototype** built in anticipation of potential sponsored content in ChatGPT. As of version 1.0.0:
-- ✅ ChatGPT ads have **not been officially released**
-- ✅ This extension is **ready to block them** when/if they appear
-- ✅ Detection patterns **may need updates** once the actual ad system launches
-- ✅ The extension is **fully functional** but untested against real ChatGPT ads
+~~This extension is built to block potential sponsored content in ChatGPT. As of version 1.0.0:
+-  This extension is **ready to block them** when/if they appear
+-  Detection patterns **may need updates** once the actual ad system launches
+-  The extension is **fully functional** but untested against real ChatGPT ads.
 
 **Functionality:**
 This extension is designed to improve user experience by removing sponsored content. It:
-- ✅ Does not modify ChatGPT's core functionality
-- ✅ Does not intercept or modify API requests
-- ✅ Does not collect any user data
-- ✅ Respects OpenAI's terms of service
-- ✅ Will be updated as needed when ChatGPT's ad system launches
+-  Does not modify ChatGPT's core functionality
+-  Does not intercept or modify API requests
+-  Does not collect any user data
+-  Respects OpenAI's terms of service
+-  Will be updated as needed when ChatGPT's ad system launches
 
 **Future Updates:**
 Once ChatGPT officially implements sponsored content, this extension will be updated to:
@@ -194,20 +193,20 @@ Once ChatGPT officially implements sponsored content, this extension will be upd
 
 Use at your own discretion. This is experimental software that will evolve with ChatGPT's advertising system.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with modern web technologies
 - Designed with user privacy in mind
 - Inspired by the need for an ad-free AI experience
 
-## 📞 Support
+##  Support
 
 Having issues? Please:
 1. Check the [Troubleshooting Guide](TROUBLESHOOTING.md)
 2. Search [existing issues](https://github.com/rojansapkota/chatgpt-adblocker/issues)
 3. Create a [new issue](https://github.com/rojansapkota/chatgpt-adblocker/issues/new) if needed
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Custom pattern editor
 - [ ] Whitelist functionality
@@ -218,7 +217,7 @@ Having issues? Please:
 
 <div align="center">
 
-**Made with ❤️ for the ChatGPT community**
+**Made with for the ChatGPT community**
 
 [⬆ back to top](#-chatgpt-adblocker)
 
@@ -226,8 +225,7 @@ Having issues? Please:
 
 
 
-
-### 💰 Support Me
+### Support Me
 
 [![Wise](https://img.shields.io/badge/Wise-00B9FF?style=for-the-badge&logo=wise&logoColor=white)](https://rojansapkota.com.np/wise) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/payrojan) 
