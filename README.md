@@ -217,7 +217,7 @@ Having issues? Please:
 
 <div align="center">
 
-**Made with for the ChatGPT community**
+**Made with ❤️ for the ChatGPT community**
 
 [⬆ back to top](#-chatgpt-adblocker)
 
