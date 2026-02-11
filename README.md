@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ~~This extension is built to block potential sponsored content in ChatGPT. As of version 1.0.0:
 -  This extension is **ready to block them** when/if they appear
 -  Detection patterns **may need updates** once the actual ad system launches
--  The extension is **fully functional** but untested against real ChatGPT ads.
+-  The extension is **fully functional** but untested against real ChatGPT ads.~~
 
 **Functionality:**
 This extension is designed to improve user experience by removing sponsored content. It:
