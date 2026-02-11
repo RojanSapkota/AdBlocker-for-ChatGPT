@@ -220,7 +220,7 @@ Having issues? Please:
 
 **Made with ❤️ for the ChatGPT community**
 
-[⬆ back to top](#️-chatgpt-adblocker)
+[⬆ back to top](#-chatgpt-adblocker)
 
 </div>
 
