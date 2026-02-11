@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Chromium](https://img.shields.io/badge/Chromium-Compatible-green.svg)](https://www.chromium.org/)
-[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/rojansapkota/chatgpt-adblocker/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/RojanSapkota/AdBlocker-for-ChatGPT/releases)
 
 *Works on Chrome, Edge, Brave, Opera, Vivaldi, and all Chromium-based browsers*
 
@@ -47,8 +47,8 @@ ChatGPT AdBlocker is a lightweight browser extension that automatically detects 
 
 1. **Download the extension**
    ```bash
-   git clone https://github.com/rojansapkota/chatgpt-adblocker.git
-   cd chatgpt-adblocker
+   git clone https://github.com/RojanSapkota/AdBlocker-for-ChatGPT.git
+   cd AdBlocker-for-ChatGPT
    ```
 
 2. **Load in your browser**
@@ -127,7 +127,7 @@ Your messages are **completely safe**:
 ### Project Structure
 
 ```
-chatgpt-adblocker/
+AdBlocker-for-ChatGPT/
 ├── manifest.json       # Extension configuration
 ├── content.js          # Main ad-blocking logic
 ├── index.html          # Popup interface
@@ -204,8 +204,8 @@ Use at your own discretion. This is experimental software that will evolve with 
 
 Having issues? Please:
 1. Check the [Troubleshooting Guide](TROUBLESHOOTING.md)
-2. Search [existing issues](https://github.com/rojansapkota/chatgpt-adblocker/issues)
-3. Create a [new issue](https://github.com/rojansapkota/chatgpt-adblocker/issues/new) if needed
+2. Search [existing issues](https://github.com/RojanSapkota/AdBlocker-for-ChatGPT/issues)
+3. Create a [new issue](https://github.com/RojanSapkota/AdBlocker-for-ChatGPT/issues/new) if needed
 
 ## 🗺️ Roadmap
 
@@ -220,7 +220,7 @@ Having issues? Please:
 
 **Made with ❤️ for the ChatGPT community**
 
-[⬆ back to top](#-chatgpt-adblocker)
+[⬆ back to top](#️-chatgpt-adblocker)
 
 </div>
 
